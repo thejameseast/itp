@@ -13,3 +13,5 @@
 - The website name did not match Althea's GitHub username, and when that was corrected, the website went online!
 
 - We then added more accessibility features and a link to our one and only performance.
+
+- Band Link [https://altheaw21.github.io](https://altheaw21.github.io)
